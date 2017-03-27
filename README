@@ -1,4 +1,4 @@
 This repository holds files that you typically want on all computers.
 The first commit has .bashrc, .vimrc, and ssh_config (.ssh/config)
-files. Simply create symbolic links to each files:
-    ln -s <complete_path_to_file> ~/<file>
+files. Simply create symbolic links to each file:
+    ln -s <complete_path_to_file> ~/<link>
