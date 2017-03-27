@@ -1,0 +1,17 @@
+# CAEN
+Host quincyd
+    HostName login.engin.umich.edu
+    User quincyd
+    Compression yes
+
+# Gitlab
+Host quincyd
+    HostName gitlab.com
+    User git
+    IdentityFile ~/ssh/id_rsa
+
+# Github
+Host QuincyD
+    HostName github.com
+    User git
+    IdentityFile ~/ssh/id_rsa

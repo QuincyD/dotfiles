@@ -1,7 +1,12 @@
+"change name to .vimrc and put it in home directory to use.
+
+" WINDOW SPLITTING -----------------------
 
 " Put new split below or to right
 set splitbelow
 set splitright
+
+" ~WINDOW SPLITTING ----------------------
 
 " INDENTATION ----------------------------
  
@@ -27,5 +32,28 @@ set ruler
 
 " ~LINE NUMBERS/LENGTH -------------------
 
+" COLOR SCHEME ---------------------------
+
+" Change colorscheme
+"   Options: ls /usr/share/vim/vim74/colors/
+colorscheme torte
+
 " Enable syntax highlighting
 syntax enable
+
+" ~COLOR SCHEME --------------------------   
+
+
+" SEARCH SETTINGS ------------------------
+
+"  case insensitive
+set ignorecase
+
+" use case if any caps used
+set smartcase
+
+" display search highlighting
+set hlsearch
+
+" ~SEARCH SETTINGS -----------------------
+
