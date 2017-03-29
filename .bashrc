@@ -119,3 +119,4 @@ if ! shopt -oq posix; then
 fi
 
 
+alias python27="C:/Python27/python"

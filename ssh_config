@@ -8,10 +8,10 @@ Host quincyd
 Host quincyd
     HostName gitlab.com
     User git
-    IdentityFile ~/ssh/id_rsa
+    IdentityFile ~/.ssh/gitlab_rsa
 
 # Github
 Host QuincyD
     HostName github.com
     User git
-    IdentityFile ~/ssh/id_rsa
+    IdentityFile ~/.ssh/github_rsa
