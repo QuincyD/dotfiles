@@ -1,0 +1,33 @@
+vim commands
+
+    movement:
+        jump to top, bottom: gg G
+        go to line: <line number>gg
+        bring line to top, center, bottom: zt z. zb
+
+    search:
+        search for text: /<what to search for>
+        find and replace:
+            all instances: :%s/<search for>/<replace with>/g
+
+bash
+    grep:
+
+    ssh:
+        generate keys: ssh-keygen -t rsa -C "your.email@example.com" -b 4096
+        copy public key to clipboard: xclip -sel clip < <location of public key>
+
+    vim:
+        learn vim: vimtutor
+
+languages
+    c++:
+
+    python:
+
+    javascript:
+
+    css:
+
+    html:
+
