@@ -5,13 +5,11 @@ Host quincyd
     Compression yes
 
 # Gitlab
-Host quincyd
-    HostName gitlab.eecs.umich.edu
+Host gitlab.eecs.umich.edu
     User git
     IdentityFile ~/.ssh/gitlab_rsa
 
 # Github
-Host QuincyD
-    HostName github.com
+Host github.com
     User git
     IdentityFile ~/.ssh/github_rsa
