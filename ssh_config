@@ -6,7 +6,7 @@ Host quincyd
 
 # Gitlab
 Host quincyd
-    HostName gitlab.com
+    HostName gitlab.eecs.umich.edu
     User git
     IdentityFile ~/.ssh/gitlab_rsa
 
